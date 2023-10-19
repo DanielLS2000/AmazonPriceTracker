@@ -6,6 +6,7 @@ A Small App that Scrapes data from amazon and shows it with the possibility to t
 - [About](#about)
 - [Technologies and Tools Used](#tools)
 - [How to use](#usage)
+- [Pictures](#pictures)
 
 ## About
 
@@ -29,3 +30,12 @@ To use it you simply have to download it and run the following commands, make su
     cd MainProject
     Python app.py
 ```
+
+## Pictures
+<div align="center">
+    <img src="https://github.com/DanielLS2000/AmazonPriceTracker/assets/112213498/27c38bbe-68df-4e52-a61f-f676426dbceb" alt="Image 1" />
+</div>
+<br>
+<div align="center">
+    <img src="https://github.com/DanielLS2000/AmazonPriceTracker/assets/112213498/f17cbef8-05e4-40e0-8ccb-588dc28403ee" alt="Image 2" />
+</div>
